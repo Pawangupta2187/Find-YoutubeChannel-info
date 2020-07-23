@@ -1,0 +1,2511 @@
+{
+    "UCbXgNpp0jedKWcQiULLbDTA": {
+        "channel_statistics": {
+            "viewCount": "158130",
+            "commentCount": "0",
+            "subscriberCount": "3640",
+            "hiddenSubscriberCount": false,
+            "videoCount": "69"
+        },
+        "video_data": {
+            "yCYPzoG25ak": {
+                "publishedAt": "2020-05-17T11:30:08Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "Build & Deploy A Python Web App To Automate Twitter | Flask, Heroku, Twitter API & Google Sheets API",
+                "description": "Build & Deploy a Python web app to schedule Tweets. I'm using Flask, Heroku, the Twitter API, and Google Sheets API for this. You can watch how I build this app step by step from zero to deployment! The app can be hosted for free then.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nYou can find the starting point and important commands here:\nhttps://github.com/python-engineer/tweet-scheduler\n\nFlask: https://flask.palletsprojects.com/en/1.1.x/\nHeroku: https://www.heroku.com/\nTweepy: https://www.tweepy.org/\ngspread: https://gspread.readthedocs.io/en/latest/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #Flask",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yCYPzoG25ak/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yCYPzoG25ak/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yCYPzoG25ak/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yCYPzoG25ak/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yCYPzoG25ak/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Build & Deploy A Python Web App To Automate Twitter | Flask, Heroku, Twitter API & Google Sheets API",
+                    "description": "Build & Deploy a Python web app to schedule Tweets. I'm using Flask, Heroku, the Twitter API, and Google Sheets API for this. You can watch how I build this app step by step from zero to deployment! The app can be hosted for free then.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nYou can find the starting point and important commands here:\nhttps://github.com/python-engineer/tweet-scheduler\n\nFlask: https://flask.palletsprojects.com/en/1.1.x/\nHeroku: https://www.heroku.com/\nTweepy: https://www.tweepy.org/\ngspread: https://gspread.readthedocs.io/en/latest/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #Flask"
+                },
+                "viewCount": "372",
+                "likeCount": "22",
+                "dislikeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "9",
+                "duration": "PT1H42M33S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "T1vqS1NL89E": {
+                "publishedAt": "2020-05-16T13:05:02Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+
+                "title": "Google Sheets and Python - Tutorial 2020",
+                "description": "Learn how to use Google Sheets API in Python. We are using the gspread module for this. It's super simple to setup a project, and then access and modify our spreadsheet with a Python script. Google Sheets can be pretty powerful and used as a backend to store some data for your web applications.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/python-knowledge\n\nCheck out gspread documentation here: https://gspread.readthedocs.io/en/latest/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T1vqS1NL89E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T1vqS1NL89E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T1vqS1NL89E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/T1vqS1NL89E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/T1vqS1NL89E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Google Sheets and Python - Tutorial 2020",
+                    "description": "Learn how to use Google Sheets API in Python. We are using the gspread module for this. It's super simple to setup a project, and then access and modify our spreadsheet with a Python script. Google Sheets can be pretty powerful and used as a backend to store some data for your web applications.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/python-knowledge\n\nCheck out gspread documentation here: https://gspread.readthedocs.io/en/latest/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python"
+                },
+                "viewCount": "232",
+                "likeCount": "21",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "3",
+                "duration": "PT9M56S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "9IDXYHhAfGA": {
+                "publishedAt": "2020-05-08T13:00:04Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "LDA (Linear Discriminant Analysis) In Python - ML From Scratch 14 - Python Tutorial",
+                "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the LDA algorithm using only built-in Python modules and numpy. LDA (Linear Discriminant Analysis) is a feature reduction technique and a common preprocessing step in machine learning pipelines. We will learn about the concept and the math behind this popular ML algorithm, and how to implement it in Python.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nFurther readings:\nhttps://sebastianraschka.com/Articles/2014_python_lda.html\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9IDXYHhAfGA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9IDXYHhAfGA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9IDXYHhAfGA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9IDXYHhAfGA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9IDXYHhAfGA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "LDA (Linear Discriminant Analysis) In Python - ML From Scratch 14 - Python Tutorial",
+                    "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the LDA algorithm using only built-in Python modules and numpy. LDA (Linear Discriminant Analysis) is a feature reduction technique and a common preprocessing step in machine learning pipelines. We will learn about the concept and the math behind this popular ML algorithm, and how to implement it in Python.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nFurther readings:\nhttps://sebastianraschka.com/Articles/2014_python_lda.html\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning"
+                },
+                "viewCount": "257",
+                "likeCount": "11",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "12",
+                "duration": "PT22M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "aP2KJoTITO0": {
+                "publishedAt": "2020-04-30T12:39:24Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "TinyDB in Python - Simple Database For Personal Projects",
+                "description": "In this Python Tutorial, I want to show you how to work with TinyDB. TinyDB is a tiny, document oriented database which is perfect for small personal projects. The API is super simple and fun to use. I show you basic functionalities like adding, deleting, updating, and searching. TinyDB is open sourced an can be found on GitHub:\nhttps://github.com/msiemens/tinydb\n\nIf you like this Tutorial, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/python-knowledge\n\nFurther readings:\nhttps://tinydb.readthedocs.io/en/latest/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\nIcon: https://fontawesome.com/icons/database\n\n#Python #database",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aP2KJoTITO0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aP2KJoTITO0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aP2KJoTITO0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aP2KJoTITO0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aP2KJoTITO0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "TinyDB in Python - Simple Database For Personal Projects",
+                    "description": "In this Python Tutorial, I want to show you how to work with TinyDB. TinyDB is a tiny, document oriented database which is perfect for small personal projects. The API is super simple and fun to use. I show you basic functionalities like adding, deleting, updating, and searching. TinyDB is open sourced an can be found on GitHub:\nhttps://github.com/msiemens/tinydb\n\nIf you like this Tutorial, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/python-knowledge\n\nFurther readings:\nhttps://tinydb.readthedocs.io/en/latest/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\nIcon: https://fontawesome.com/icons/database\n\n#Python #database"
+                },
+                "viewCount": "336",
+                "likeCount": "22",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "7",
+                "duration": "PT15M44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "eivDTOlA0TE": {
+                "publishedAt": "2020-04-28T14:10:41Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "How To Load Machine Learning Data From Files In Python",
+                "description": "The common data format in Machine Learning is a CSV file (comma separated values). In this Tutorial I show 4 different ways how you can load the data from such files and then prepare the data. I also show you some best practices on how to deal with the correct data type, missing values, and an optional header. The 4 approaches are:\n\n- with the csv module\n- with numpy: np.loadtxt() and numpy.genfromtxt()\n- with pandas: pd.read_csv()\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code and all Machine Learning tutorials can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eivDTOlA0TE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eivDTOlA0TE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eivDTOlA0TE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eivDTOlA0TE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eivDTOlA0TE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How To Load Machine Learning Data From Files In Python",
+                    "description": "The common data format in Machine Learning is a CSV file (comma separated values). In this Tutorial I show 4 different ways how you can load the data from such files and then prepare the data. I also show you some best practices on how to deal with the correct data type, missing values, and an optional header. The 4 approaches are:\n\n- with the csv module\n- with numpy: np.loadtxt() and numpy.genfromtxt()\n- with pandas: pd.read_csv()\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code and all Machine Learning tutorials can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning"
+                },
+                "viewCount": "332",
+                "likeCount": "20",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT17M10S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "AEE9ecgLgdQ": {
+                "publishedAt": "2020-04-19T13:50:49Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "Regular Expressions in Python - ALL You Need To Know - Programming Tutorial",
+                "description": "In this Python Tutorial, we will be learning about Regular Expressions (or RE, regex) in Python. Regular expressions are a powerful language for matching text patterns. Possible pattern examples for searches are e-mail addresses or domain names. This video covers all you need to know to understand any regex expression! I go over all important concepts and mix examples in between.\n\nHere is an overview what I am showing you, if you want to skip to a specific part:\n\nIf you like this Tutorial, please subscribe to the channel!\n\n0) re Module 00:00\n1) Methods to search for matches 06:38\n2) Methods on a match object 09:55\n3) Meta Characters 12:25\n4) Special Sequences 16:15\n5) Sets 21:14\n6) Quantifier 25:30\n7) Conditions 35:45\n8) Grouping 40:00\n9) Modification 48:07\n10) Compilation Flags 1:01:48\n\nA written Tutorial can be found here:\nhttps://www.python-engineer.com/blog/regular_expressions_fullguide\n\nFurther readings:\nhttps://docs.python.org/3/howto/regex.html\nhttps://docs.python.org/3/library/re.html\nhttps://developers.google.com/edu/python/regular-expressions\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #regex",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AEE9ecgLgdQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AEE9ecgLgdQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AEE9ecgLgdQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AEE9ecgLgdQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AEE9ecgLgdQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Regular Expressions in Python - ALL You Need To Know - Programming Tutorial",
+                    "description": "In this Python Tutorial, we will be learning about Regular Expressions (or RE, regex) in Python. Regular expressions are a powerful language for matching text patterns. Possible pattern examples for searches are e-mail addresses or domain names. This video covers all you need to know to understand any regex expression! I go over all important concepts and mix examples in between.\n\nHere is an overview what I am showing you, if you want to skip to a specific part:\n\nIf you like this Tutorial, please subscribe to the channel!\n\n0) re Module 00:00\n1) Methods to search for matches 06:38\n2) Methods on a match object 09:55\n3) Meta Characters 12:25\n4) Special Sequences 16:15\n5) Sets 21:14\n6) Quantifier 25:30\n7) Conditions 35:45\n8) Grouping 40:00\n9) Modification 48:07\n10) Compilation Flags 1:01:48\n\nA written Tutorial can be found here:\nhttps://www.python-engineer.com/blog/regular_expressions_fullguide\n\nFurther readings:\nhttps://docs.python.org/3/howto/regex.html\nhttps://docs.python.org/3/library/re.html\nhttps://developers.google.com/edu/python/regular-expressions\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #regex"
+                },
+                "viewCount": "364",
+                "likeCount": "26",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "6",
+                "duration": "PT1H4M48S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "9L9jEOwRrCg": {
+                "publishedAt": "2020-04-13T18:03:59Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 17 - Saving and Loading Models",
+                "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will learn how to save and load our model. I will show you the different functions you have to remember, and the different ways of saving our model. I also show you what you must consider when using a GPU.\n\nFunctions you must know:\n- torch.save()\n- torch.load()\n- torch.nn.Module().load_state_dict()\n\nPart 17: Saving and Loading Models\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nFurther Readings:\nhttps://pytorch.org/tutorials/beginner/saving_loading_models.html\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9L9jEOwRrCg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9L9jEOwRrCg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9L9jEOwRrCg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9L9jEOwRrCg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9L9jEOwRrCg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 17 - Saving and Loading Models",
+                    "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will learn how to save and load our model. I will show you the different functions you have to remember, and the different ways of saving our model. I also show you what you must consider when using a GPU.\n\nFunctions you must know:\n- torch.save()\n- torch.load()\n- torch.nn.Module().load_state_dict()\n\nPart 17: Saving and Loading Models\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nFurther Readings:\nhttps://pytorch.org/tutorials/beginner/saving_loading_models.html\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "919",
+                "likeCount": "33",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "7",
+                "duration": "PT18M24S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "VJW9wU-1n18": {
+                "publishedAt": "2020-03-30T15:59:25Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 16 - How To Use The TensorBoard",
+                "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will learn about the TensorBoard and how we can use it to visualize and analyze our models. TensorBoard is a visualization toolkit that provides the visualization and tooling needed for machine learning experimentation:\n\nWe will learn:\n- How to install and use the TensorBoard in Pytorch\n- How to add images\n- How to add a model graph\n- How to visualize loss and accuracy during training\n- How to plot precision-recall curves\n\nPart 16: How To Use The TensorBoard\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nFurther Readings:\nhttps://www.tensorflow.org/tensorboard\nhttps://pytorch.org/docs/stable/tensorboard.html\nhttps://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VJW9wU-1n18/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VJW9wU-1n18/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VJW9wU-1n18/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VJW9wU-1n18/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VJW9wU-1n18/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 16 - How To Use The TensorBoard",
+                    "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will learn about the TensorBoard and how we can use it to visualize and analyze our models. TensorBoard is a visualization toolkit that provides the visualization and tooling needed for machine learning experimentation:\n\nWe will learn:\n- How to install and use the TensorBoard in Pytorch\n- How to add images\n- How to add a model graph\n- How to visualize loss and accuracy during training\n- How to plot precision-recall curves\n\nPart 16: How To Use The TensorBoard\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nFurther Readings:\nhttps://www.tensorflow.org/tensorboard\nhttps://pytorch.org/docs/stable/tensorboard.html\nhttps://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "1671",
+                "likeCount": "45",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "10",
+                "duration": "PT25M41S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "dYvt3vSJaQA": {
+                "publishedAt": "2020-03-23T14:32:45Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "Complete FREE Study Guide for Machine Learning and Deep Learning",
+                "description": "A complete study plan to become a Machine Learning Engineer with links to all FREE resources. If you finish the list you will be equipped with enough theoretical and practical experience to get started in the industry! I tried to limit the resources to a minimum, but some courses are extensive.\n\nFind the Complete List here:\nhttps://github.com/python-engineer/ml-study-plan\n\nI divided the plan into these categories:\n0. Prerequisites\n1. Machine Learning\n2. Deep Learning\n3. Own Projects and Kaggle Competitions\n4. Interview Preparation\n5. Next Level Pro Tips\n\nThis plan is not sponsored by anyone on the list! \n\nIf you enjoyed this video, please subscribe to the channel!\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\nIcon made by Eucalyp from www.flaticon.com\n\n#MachineLearning #DeepLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dYvt3vSJaQA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dYvt3vSJaQA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dYvt3vSJaQA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dYvt3vSJaQA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dYvt3vSJaQA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Complete FREE Study Guide for Machine Learning and Deep Learning",
+                    "description": "A complete study plan to become a Machine Learning Engineer with links to all FREE resources. If you finish the list you will be equipped with enough theoretical and practical experience to get started in the industry! I tried to limit the resources to a minimum, but some courses are extensive.\n\nFind the Complete List here:\nhttps://github.com/python-engineer/ml-study-plan\n\nI divided the plan into these categories:\n0. Prerequisites\n1. Machine Learning\n2. Deep Learning\n3. Own Projects and Kaggle Competitions\n4. Interview Preparation\n5. Next Level Pro Tips\n\nThis plan is not sponsored by anyone on the list! \n\nIf you enjoyed this video, please subscribe to the channel!\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\nIcon made by Eucalyp from www.flaticon.com\n\n#MachineLearning #DeepLearning"
+                },
+                "viewCount": "737",
+                "likeCount": "47",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "9",
+                "duration": "PT12M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "wF5t4Mmv5us": {
+                "publishedAt": "2020-03-16T20:04:26Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "AdaBoost in Python - Machine Learning From Scratch 13 - Python Tutorial",
+                "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the AdaBoost algorithm using only built-in Python modules and numpy. AdaBoost is an ensemble technique that attempts to create a strong classifier from a number of weak classifiers. We will first learn about the concept and the math behind this popular ML algorithm, and then we jump to the code.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nFurther readings:\nhttps://towardsdatascience.com/understanding-adaboost-2f94f22d5bfe\nhttps://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wF5t4Mmv5us/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wF5t4Mmv5us/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wF5t4Mmv5us/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wF5t4Mmv5us/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wF5t4Mmv5us/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "AdaBoost in Python - Machine Learning From Scratch 13 - Python Tutorial",
+                    "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the AdaBoost algorithm using only built-in Python modules and numpy. AdaBoost is an ensemble technique that attempts to create a strong classifier from a number of weak classifiers. We will first learn about the concept and the math behind this popular ML algorithm, and then we jump to the code.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nFurther readings:\nhttps://towardsdatascience.com/understanding-adaboost-2f94f22d5bfe\nhttps://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning"
+                },
+                "viewCount": "1121",
+                "likeCount": "31",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "11",
+                "duration": "PT27M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "XqYpE6jqdww": {
+                "publishedAt": "2020-03-09T16:54:04Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "YouTube Data API Tutorial with Python - Analyze the Data - Part 4",
+                "description": "In this Python Tutorial we will be learning how to work with the YouTube Data API and analyze channel statistics. This is going to be a 4 part series:\n\n- Part 1: Setup your app and get API Key, and extract basic channel statistics\n- Part 2: Get a list of all the videos of a channel\n- Part 3: Get in depth statistics for each video\n- Part 4: Analyze the data in a jupyter notebook\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/youtube-analyzer\n\nMore:\n- Official guides and docs: https://developers.google.com/youtube/v3\n- Register app: https://console.developers.google.com/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #Coding #Tutorial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XqYpE6jqdww/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XqYpE6jqdww/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XqYpE6jqdww/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XqYpE6jqdww/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XqYpE6jqdww/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "YouTube Data API Tutorial with Python - Analyze the Data - Part 4",
+                    "description": "In this Python Tutorial we will be learning how to work with the YouTube Data API and analyze channel statistics. This is going to be a 4 part series:\n\n- Part 1: Setup your app and get API Key, and extract basic channel statistics\n- Part 2: Get a list of all the videos of a channel\n- Part 3: Get in depth statistics for each video\n- Part 4: Analyze the data in a jupyter notebook\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/youtube-analyzer\n\nMore:\n- Official guides and docs: https://developers.google.com/youtube/v3\n- Register app: https://console.developers.google.com/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #Coding #Tutorial"
+                },
+                "viewCount": "213",
+                "likeCount": "10",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "7",
+                "duration": "PT22M11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "itiRd7iZ2_M": {
+                "publishedAt": "2020-03-08T13:00:14Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "YouTube Data API Tutorial with Python - Get Video Statistics - Part 3",
+                "description": "In this Python Tutorial we will be learning how to work with the YouTube Data API and analyze channel statistics. This is going to be a 4 part series:\n\n- Part 1: Setup your app and get API Key, and extract basic channel statistics\n- Part 2: Get a list of all the videos of a channel\n- Part 3: Get in depth statistics for each video\n- Part 4: Analyze the data in a jupyter notebook\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/youtube-analyzer\n\nMore:\n- Official guides and docs: https://developers.google.com/youtube/v3\n- Register app: https://console.developers.google.com/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #Coding #Tutorial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/itiRd7iZ2_M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/itiRd7iZ2_M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/itiRd7iZ2_M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/itiRd7iZ2_M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/itiRd7iZ2_M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "YouTube Data API Tutorial with Python - Get Video Statistics - Part 3",
+                    "description": "In this Python Tutorial we will be learning how to work with the YouTube Data API and analyze channel statistics. This is going to be a 4 part series:\n\n- Part 1: Setup your app and get API Key, and extract basic channel statistics\n- Part 2: Get a list of all the videos of a channel\n- Part 3: Get in depth statistics for each video\n- Part 4: Analyze the data in a jupyter notebook\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/youtube-analyzer\n\nMore:\n- Official guides and docs: https://developers.google.com/youtube/v3\n- Register app: https://console.developers.google.com/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #Coding #Tutorial"
+                },
+                "viewCount": "253",
+                "likeCount": "10",
+                "dislikeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT17M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "4FwXqOT4-FM": {
+                "publishedAt": "2020-03-07T13:27:31Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "YouTube Data API Tutorial with Python - Find Channel Videos - Part 2",
+                "description": "In this Python Tutorial we will be learning how to work with the YouTube Data API and analyze channel statistics. This is going to be a 4 part series:\n\n- Part 1: Setup your app and get API Key, and extract basic channel statistics \n- Part 2: Get a list of all the videos of a channel\n- Part 3: Get in depth statistics for each video\n- Part 4: Analyze the data in a jupyter notebook\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/youtube-analyzer\n\nMore:\n- Official guides and docs: https://developers.google.com/youtube/v3\n- Register app: https://console.developers.google.com/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #Coding #Tutorial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4FwXqOT4-FM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4FwXqOT4-FM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4FwXqOT4-FM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4FwXqOT4-FM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4FwXqOT4-FM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "YouTube Data API Tutorial with Python - Find Channel Videos - Part 2",
+                    "description": "In this Python Tutorial we will be learning how to work with the YouTube Data API and analyze channel statistics. This is going to be a 4 part series:\n\n- Part 1: Setup your app and get API Key, and extract basic channel statistics \n- Part 2: Get a list of all the videos of a channel\n- Part 3: Get in depth statistics for each video\n- Part 4: Analyze the data in a jupyter notebook\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/youtube-analyzer\n\nMore:\n- Official guides and docs: https://developers.google.com/youtube/v3\n- Register app: https://console.developers.google.com/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #Coding #Tutorial"
+                },
+                "viewCount": "314",
+                "likeCount": "9",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "6",
+                "duration": "PT24M15S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "5qtC-tsQ-wE": {
+                "publishedAt": "2020-02-23T11:59:11Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "YouTube Data API Tutorial with Python - Analyze Channel Statistics - Part 1",
+                "description": "In this Python Tutorial we will be learning how to work with the YouTube Data API and analyze channel statistics. This is going to be a 4 part series:\n\n- Part 1: Setup your app and get API Key, and extract basic channel statistics\n- Part 2: Get a list of all the videos of a channel\n- Part 3: Get in depth statistics for each video\n- Part 4: Analyze the data in a jupyter notebook\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/youtube-analyzer\n\nMore:\n- Official guides and docs: https://developers.google.com/youtube/v3\n- Register app: https://console.developers.google.com/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #Coding #Tutorial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5qtC-tsQ-wE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5qtC-tsQ-wE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5qtC-tsQ-wE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5qtC-tsQ-wE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5qtC-tsQ-wE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "YouTube Data API Tutorial with Python - Analyze Channel Statistics - Part 1",
+                    "description": "In this Python Tutorial we will be learning how to work with the YouTube Data API and analyze channel statistics. This is going to be a 4 part series:\n\n- Part 1: Setup your app and get API Key, and extract basic channel statistics\n- Part 2: Get a list of all the videos of a channel\n- Part 3: Get in depth statistics for each video\n- Part 4: Analyze the data in a jupyter notebook\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/youtube-analyzer\n\nMore:\n- Official guides and docs: https://developers.google.com/youtube/v3\n- Register app: https://console.developers.google.com/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #Coding #Tutorial"
+                },
+                "viewCount": "1005",
+                "likeCount": "37",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "7",
+                "duration": "PT20M42S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "K0lWSB2QoIQ": {
+                "publishedAt": "2020-02-12T17:57:47Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 15 - Transfer Learning",
+                "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will learn about transfer learning and how this can be implemented in PyTorch.\n\nWe will learn:\n- What is Transfer Learning\n- Use the pretrained ResNet-18 model\n- Apply transfer learning to classify ants and bees\n- Exchange the last fully connected layer\n- Try 2 methods: Finetune the whole network or train only the last layer\n- Evaluate the results\n\nPart 15: Transfer Learning\n\nYou can download the dataset here:\nhttps://download.pytorch.org/tutorial/hymenoptera_data.zip\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nMore about Transfer Learning:\nhttps://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K0lWSB2QoIQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K0lWSB2QoIQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K0lWSB2QoIQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K0lWSB2QoIQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K0lWSB2QoIQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 15 - Transfer Learning",
+                    "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will learn about transfer learning and how this can be implemented in PyTorch.\n\nWe will learn:\n- What is Transfer Learning\n- Use the pretrained ResNet-18 model\n- Apply transfer learning to classify ants and bees\n- Exchange the last fully connected layer\n- Try 2 methods: Finetune the whole network or train only the last layer\n- Evaluate the results\n\nPart 15: Transfer Learning\n\nYou can download the dataset here:\nhttps://download.pytorch.org/tutorial/hymenoptera_data.zip\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nMore about Transfer Learning:\nhttps://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "2057",
+                "likeCount": "52",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "15",
+                "duration": "PT14M55S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "Q8oRicpUeuw": {
+                "publishedAt": "2020-02-09T16:07:56Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "The Walrus Operator - New in Python 3.8 - Python Tutorial",
+                "description": "In this Python Tutorial I show you the new assignment expression also known as the walrus operator. This Python feature is new in Python 3.8. It can be used to evaluate an expression and simultaneously assign it to a variable. This can be useful to simplify the code in some cases. I will show you the syntax of the walrus operator and two useful examples.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/python-knowledge\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #Coding #Tutorial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q8oRicpUeuw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q8oRicpUeuw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q8oRicpUeuw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q8oRicpUeuw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Q8oRicpUeuw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "The Walrus Operator - New in Python 3.8 - Python Tutorial",
+                    "description": "In this Python Tutorial I show you the new assignment expression also known as the walrus operator. This Python feature is new in Python 3.8. It can be used to evaluate an expression and simultaneously assign it to a variable. This can be useful to simplify the code in some cases. I will show you the syntax of the walrus operator and two useful examples.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/python-knowledge\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #Coding #Tutorial"
+                },
+                "viewCount": "260",
+                "likeCount": "16",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "6",
+                "duration": "PT8M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "pDdP0TFzsoQ": {
+                "publishedAt": "2020-02-07T15:32:59Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 14 - Convolutional Neural Network (CNN)",
+                "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will implement our first convolutional neural network (CNN) that can do image classification based on the famous CIFAR-10 dataset.\n\nWe will learn:\n- Architecture of CNNs\n- Convolutional Filter\n- Max Pooling\n- Determine the correct layer size\n- Implement the CNN architecture in PyTorch\n\nPart 14: Convolutional Neural Network (CNN)\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nMore about CNNs:\ndeeplizard channel: https://youtu.be/YRhxdVk_sIs\nStanford Lecture: https://youtu.be/bNb2fEVKeEo\nhttp://cs231n.github.io/convolutional-networks/\nhttps://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pDdP0TFzsoQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pDdP0TFzsoQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pDdP0TFzsoQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pDdP0TFzsoQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pDdP0TFzsoQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 14 - Convolutional Neural Network (CNN)",
+                    "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will implement our first convolutional neural network (CNN) that can do image classification based on the famous CIFAR-10 dataset.\n\nWe will learn:\n- Architecture of CNNs\n- Convolutional Filter\n- Max Pooling\n- Determine the correct layer size\n- Implement the CNN architecture in PyTorch\n\nPart 14: Convolutional Neural Network (CNN)\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nMore about CNNs:\ndeeplizard channel: https://youtu.be/YRhxdVk_sIs\nStanford Lecture: https://youtu.be/bNb2fEVKeEo\nhttp://cs231n.github.io/convolutional-networks/\nhttps://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "3415",
+                "likeCount": "105",
+                "dislikeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "39",
+                "duration": "PT22M7S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "FptVpIPhdpM": {
+                "publishedAt": "2020-02-02T14:00:02Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "How To Add A Progress Bar In Python With Just One Line - Python Tutorial",
+                "description": "In this Python Tutorial I show you how you can add a Progress Bar to your Python code in just one line of code! We use the great 'tqdm' module for this that can simply be installed with \"pip install tqdm\". I show you the iterable based and the manual controlled approach.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/python-knowledge\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #Coding #Tutorial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FptVpIPhdpM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FptVpIPhdpM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FptVpIPhdpM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FptVpIPhdpM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FptVpIPhdpM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How To Add A Progress Bar In Python With Just One Line - Python Tutorial",
+                    "description": "In this Python Tutorial I show you how you can add a Progress Bar to your Python code in just one line of code! We use the great 'tqdm' module for this that can simply be installed with \"pip install tqdm\". I show you the iterable based and the manual controlled approach.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/python-knowledge\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #Coding #Tutorial"
+                },
+                "viewCount": "2056",
+                "likeCount": "37",
+                "dislikeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "9",
+                "duration": "PT5M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "oPhxf2fXHkQ": {
+                "publishedAt": "2020-01-30T20:44:23Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 13 - Feed-Forward Neural Network",
+                "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will implement our first multilayer neural network that can do digit classification based on the famous MNIST dataset.\n\nWe put all the things from the last tutorials together:\n\n- Use the DataLoader to load our dataset and apply a transform to the dataset\n- Implement a feed-forward neural net with input layer, hidden layer, and output layer\n- Apply activation functions. \n- Set up loss and optimizer \n- Training loop that can use batch training. \n- Evaluate our model and calculate the accuracy. \n- Additionally, we will make sure that our whole code can also run on the gpu if we have gpu support.\n\nPart 13: Feed-Forward Neural Network\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oPhxf2fXHkQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oPhxf2fXHkQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oPhxf2fXHkQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oPhxf2fXHkQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oPhxf2fXHkQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 13 - Feed-Forward Neural Network",
+                    "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will implement our first multilayer neural network that can do digit classification based on the famous MNIST dataset.\n\nWe put all the things from the last tutorials together:\n\n- Use the DataLoader to load our dataset and apply a transform to the dataset\n- Implement a feed-forward neural net with input layer, hidden layer, and output layer\n- Apply activation functions. \n- Set up loss and optimizer \n- Training loop that can use batch training. \n- Evaluate our model and calculate the accuracy. \n- Additionally, we will make sure that our whole code can also run on the gpu if we have gpu support.\n\nPart 13: Feed-Forward Neural Network\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "2191",
+                "likeCount": "52",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "15",
+                "duration": "PT21M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "RaIu2-NM0t0": {
+                "publishedAt": "2020-01-25T15:00:05Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "List Comprehension in Python - A Python Feature You MUST KNOW - Python Tutorial",
+                "description": "In this Python Tutorial we will be learning about Lists Comprehension in Python. List comprehension provides a simple and concise way to create lists. It is a great feature that every Python programmer should know!\n\nWe will learn:\n- What is list comprehension and why should we use it\n- How do we use list comprehension\n- The syntax of list comprehension\n- The extended syntax with conditional statements\n- Set and Dictionary Comprehension\n- Speed Comparison: List comprehension vs. For-Loops\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/python-knowledge\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #Coding",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RaIu2-NM0t0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RaIu2-NM0t0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RaIu2-NM0t0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RaIu2-NM0t0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RaIu2-NM0t0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "List Comprehension in Python - A Python Feature You MUST KNOW - Python Tutorial",
+                    "description": "In this Python Tutorial we will be learning about Lists Comprehension in Python. List comprehension provides a simple and concise way to create lists. It is a great feature that every Python programmer should know!\n\nWe will learn:\n- What is list comprehension and why should we use it\n- How do we use list comprehension\n- The syntax of list comprehension\n- The extended syntax with conditional statements\n- Set and Dictionary Comprehension\n- Speed Comparison: List comprehension vs. For-Loops\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/python-knowledge\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #Coding"
+                },
+                "viewCount": "244",
+                "likeCount": "10",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "5",
+                "duration": "PT16M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "3t9lZM7SS7k": {
+                "publishedAt": "2020-01-22T14:08:46Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 12 - Activation Functions",
+                "description": "Learn all the basics you need to get started with this deep learning framework! In this part we learn about activation functions in neural nets. What are activation functions, why are they needed, and how do we apply them in PyTorch.\n\nI go over following activation functions:\n- Binary Step\n- Sigmoid\n- TanH (Hyperbolic Tangent)\n- ReLU\n- Leaky ReLU\n- Softmax\n \nPart 12: Activation Functions\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3t9lZM7SS7k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3t9lZM7SS7k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3t9lZM7SS7k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3t9lZM7SS7k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3t9lZM7SS7k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 12 - Activation Functions",
+                    "description": "Learn all the basics you need to get started with this deep learning framework! In this part we learn about activation functions in neural nets. What are activation functions, why are they needed, and how do we apply them in PyTorch.\n\nI go over following activation functions:\n- Binary Step\n- Sigmoid\n- TanH (Hyperbolic Tangent)\n- ReLU\n- Leaky ReLU\n- Softmax\n \nPart 12: Activation Functions\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "1272",
+                "likeCount": "29",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "5",
+                "duration": "PT10M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "FoPPgcpSmNs": {
+                "publishedAt": "2020-01-18T15:00:06Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "Select Movies with Python - Web Scraping Tutorial",
+                "description": "Welcome to a fun little Python Tutorial! Scrape the IMDb Top 250 movies and let Python choose a movie for you! Learn how to use requests and BeautifulSoup to scrape websites.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/python-fun\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #WebScraping #BeautifulSoup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FoPPgcpSmNs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FoPPgcpSmNs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FoPPgcpSmNs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FoPPgcpSmNs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FoPPgcpSmNs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Select Movies with Python - Web Scraping Tutorial",
+                    "description": "Welcome to a fun little Python Tutorial! Scrape the IMDb Top 250 movies and let Python choose a movie for you! Learn how to use requests and BeautifulSoup to scrape websites.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/python-fun\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #WebScraping #BeautifulSoup"
+                },
+                "viewCount": "1176",
+                "likeCount": "37",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "8",
+                "duration": "PT20M37S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "7q7E91pHoW4": {
+                "publishedAt": "2020-01-14T16:00:01Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 11 - Softmax and Cross Entropy",
+                "description": "Learn all the basics you need to get started with this deep learning framework! In this part we learn about the softmax function and the cross entropy loss function. Softmax and cross entropy are popular functions used in neural nets, especially in multiclass classification problems. Learn the math behind these functions, and when and how to use them in PyTorch. Also learn differences between multiclass and binary classification problems.\n\n- Softmax function\n- Cross entropy loss\n- Use softmax and cross entropy in PyTorch\n- Differences between binary and multiclass classification\n\nPart 11: Softmax and Cross Entropy\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7q7E91pHoW4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7q7E91pHoW4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7q7E91pHoW4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7q7E91pHoW4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7q7E91pHoW4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 11 - Softmax and Cross Entropy",
+                    "description": "Learn all the basics you need to get started with this deep learning framework! In this part we learn about the softmax function and the cross entropy loss function. Softmax and cross entropy are popular functions used in neural nets, especially in multiclass classification problems. Learn the math behind these functions, and when and how to use them in PyTorch. Also learn differences between multiclass and binary classification problems.\n\n- Softmax function\n- Cross entropy loss\n- Use softmax and cross entropy in PyTorch\n- Differences between binary and multiclass classification\n\nPart 11: Softmax and Cross Entropy\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "2678",
+                "likeCount": "63",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "11",
+                "duration": "PT18M17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "t2k5Lsbpj8Y": {
+                "publishedAt": "2020-01-11T14:00:07Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "Download Images With Python Automatically - Python Web Scraping Tutorial",
+                "description": "Learn how we can automatically scrape and download images from Google Images with Python. We will use two Python packages called requests and BeautifulSoup for this Tutorial.\n\nJust put in a search word and the number of images you want, and Python can do the rest for you :)\n\nIf you enjoyed this video, please subscribe to the channel!\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/python-fun\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #WebScraping #BeautifulSoup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t2k5Lsbpj8Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t2k5Lsbpj8Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t2k5Lsbpj8Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/t2k5Lsbpj8Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/t2k5Lsbpj8Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Download Images With Python Automatically - Python Web Scraping Tutorial",
+                    "description": "Learn how we can automatically scrape and download images from Google Images with Python. We will use two Python packages called requests and BeautifulSoup for this Tutorial.\n\nJust put in a search word and the number of images you want, and Python can do the rest for you :)\n\nIf you enjoyed this video, please subscribe to the channel!\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/python-fun\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #WebScraping #BeautifulSoup"
+                },
+                "viewCount": "1930",
+                "likeCount": "55",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "20",
+                "duration": "PT14M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "X_QOZEko5uE": {
+                "publishedAt": "2020-01-07T15:00:06Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 10 - Dataset Transforms",
+                "description": "Learn all the basics you need to get started with this deep learning framework! In this part we learn how we can use dataset transforms together with the built-in Dataset class.\nApply built-in transforms to images, arrays, and tensors. Or write your own custom Transform classes.\n\n- Dataset Transforms\n- Use built-in Transforms\n- Implement custom Transforms\n\nPart 10: Dataset Transforms\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nLogistic Regression from scratch:\nhttps://youtu.be/JDU3AzH3WKg\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X_QOZEko5uE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X_QOZEko5uE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X_QOZEko5uE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/X_QOZEko5uE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/X_QOZEko5uE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 10 - Dataset Transforms",
+                    "description": "Learn all the basics you need to get started with this deep learning framework! In this part we learn how we can use dataset transforms together with the built-in Dataset class.\nApply built-in transforms to images, arrays, and tensors. Or write your own custom Transform classes.\n\n- Dataset Transforms\n- Use built-in Transforms\n- Implement custom Transforms\n\nPart 10: Dataset Transforms\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nLogistic Regression from scratch:\nhttps://youtu.be/JDU3AzH3WKg\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "2662",
+                "likeCount": "42",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "11",
+                "duration": "PT10M43S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "PXOzkkB5eH0": {
+                "publishedAt": "2020-01-04T16:02:06Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 09 - Dataset and DataLoader - Batch Training",
+                "description": "Learn all the basics you need to get started with this deep learning framework! In this part we see how we can use the built-in Dataset and DataLoader classes and improve our pipeline with batch training. See how we can write our own Dataset class and use available built-in datasets. \n\n- Dataset and DataLoader\n- Automatic batch calculation\n- Batch optimization in training loop\n\nPart 09: Dataset and DataLoader\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nLogistic Regression from scratch:\nhttps://youtu.be/JDU3AzH3WKg\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PXOzkkB5eH0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PXOzkkB5eH0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PXOzkkB5eH0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PXOzkkB5eH0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PXOzkkB5eH0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 09 - Dataset and DataLoader - Batch Training",
+                    "description": "Learn all the basics you need to get started with this deep learning framework! In this part we see how we can use the built-in Dataset and DataLoader classes and improve our pipeline with batch training. See how we can write our own Dataset class and use available built-in datasets. \n\n- Dataset and DataLoader\n- Automatic batch calculation\n- Batch optimization in training loop\n\nPart 09: Dataset and DataLoader\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nLogistic Regression from scratch:\nhttps://youtu.be/JDU3AzH3WKg\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "6143",
+                "likeCount": "112",
+                "dislikeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "21",
+                "duration": "PT15M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "OGpQxIkR4ao": {
+                "publishedAt": "2019-12-30T14:00:02Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 08 - Logistic Regression",
+                "description": "Learn all the basics you need to get started with this deep learning framework! In this part we implement a logistic regression algorithm and apply all the concepts that we have learned so far:\n\n- Training Pipeline in PyTorch\n- Model Design\n- Loss and Optimizer\n- Automatic Training steps with forward pass, backward pass, and weight updates\n\nPart 08: Logistic Regression\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nLogistic Regression from scratch:\nhttps://youtu.be/JDU3AzH3WKg\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OGpQxIkR4ao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OGpQxIkR4ao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OGpQxIkR4ao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OGpQxIkR4ao/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OGpQxIkR4ao/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 08 - Logistic Regression",
+                    "description": "Learn all the basics you need to get started with this deep learning framework! In this part we implement a logistic regression algorithm and apply all the concepts that we have learned so far:\n\n- Training Pipeline in PyTorch\n- Model Design\n- Loss and Optimizer\n- Automatic Training steps with forward pass, backward pass, and weight updates\n\nPart 08: Logistic Regression\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nLogistic Regression from scratch:\nhttps://youtu.be/JDU3AzH3WKg\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "2382",
+                "likeCount": "45",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "18",
+                "duration": "PT18M22S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "YAJ5XBwlN4o": {
+                "publishedAt": "2019-12-29T22:00:24Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 07 - Linear Regression",
+                "description": "Learn all the basics you need to get started with this deep learning framework! In this part we implement a logistic regression algorithm and apply all the concepts that we have learned so far:\n\n- Training Pipeline in PyTorch\n- Model Design\n- Loss and Optimizer\n- Automatic Training steps with forward pass, backward pass, and weight updates\n\nPart 07: Linear Regression\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nLinear Regression from scratch:\nhttps://youtu.be/4swNt7PiamQ\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YAJ5XBwlN4o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YAJ5XBwlN4o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YAJ5XBwlN4o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YAJ5XBwlN4o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YAJ5XBwlN4o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 07 - Linear Regression",
+                    "description": "Learn all the basics you need to get started with this deep learning framework! In this part we implement a logistic regression algorithm and apply all the concepts that we have learned so far:\n\n- Training Pipeline in PyTorch\n- Model Design\n- Loss and Optimizer\n- Automatic Training steps with forward pass, backward pass, and weight updates\n\nPart 07: Linear Regression\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nLinear Regression from scratch:\nhttps://youtu.be/4swNt7PiamQ\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "2387",
+                "likeCount": "58",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "7",
+                "duration": "PT12M11S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "VVDHU_TWwUg": {
+                "publishedAt": "2019-12-28T11:00:06Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 06 - Training Pipeline: Model, Loss, and Optimizer",
+                "description": "Learn all the basics you need to get started with this deep learning framework! In this part we improve the code from the last part and will learn how a complete training pipeline is implemented in PyTorch. We replace the manually computed loss and weight updates with a loss and an optimizer from the PyTorch framework, which can do the optimization for us. We will then see how a PyTorch model is implemented and used for the forward pass.\n\n- Training Pipeline in PyTorch\n- Model Design\n- Loss and Optimizer\n- Automatic Training steps with forward pass, backward pass, and weight updates\n\nPart 06: Training Pipeline: Model, Loss, and Optimizer\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nLinear Regression from scratch:\nhttps://youtu.be/4swNt7PiamQ\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VVDHU_TWwUg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VVDHU_TWwUg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VVDHU_TWwUg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VVDHU_TWwUg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VVDHU_TWwUg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 06 - Training Pipeline: Model, Loss, and Optimizer",
+                    "description": "Learn all the basics you need to get started with this deep learning framework! In this part we improve the code from the last part and will learn how a complete training pipeline is implemented in PyTorch. We replace the manually computed loss and weight updates with a loss and an optimizer from the PyTorch framework, which can do the optimization for us. We will then see how a PyTorch model is implemented and used for the forward pass.\n\n- Training Pipeline in PyTorch\n- Model Design\n- Loss and Optimizer\n- Automatic Training steps with forward pass, backward pass, and weight updates\n\nPart 06: Training Pipeline: Model, Loss, and Optimizer\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nLinear Regression from scratch:\nhttps://youtu.be/4swNt7PiamQ\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "3170",
+                "likeCount": "77",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "23",
+                "duration": "PT14M16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "E-I2DNVzQLg": {
+                "publishedAt": "2019-12-27T11:00:05Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 05 - Gradient Descent with Autograd and Backpropagation",
+                "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will learn how we can use the autograd engine in practice. First we will implement Linear regression from scratch, and then we will learn how PyTorch can do the gradient calculation for us.\n\n- Linear Regression from scratch\n- Use Pytorch's autograd and backpropagation to calculate gradients\n\nPart 05: Gradient Descent with Autograd\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nLinear Regression from scratch:\nhttps://youtu.be/4swNt7PiamQ\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E-I2DNVzQLg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E-I2DNVzQLg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E-I2DNVzQLg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/E-I2DNVzQLg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/E-I2DNVzQLg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 05 - Gradient Descent with Autograd and Backpropagation",
+                    "description": "Learn all the basics you need to get started with this deep learning framework! In this part we will learn how we can use the autograd engine in practice. First we will implement Linear regression from scratch, and then we will learn how PyTorch can do the gradient calculation for us.\n\n- Linear Regression from scratch\n- Use Pytorch's autograd and backpropagation to calculate gradients\n\nPart 05: Gradient Descent with Autograd\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nLinear Regression from scratch:\nhttps://youtu.be/4swNt7PiamQ\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "3367",
+                "likeCount": "84",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "25",
+                "duration": "PT17M31S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "3Kb0QS6z7WA": {
+                "publishedAt": "2019-12-26T11:00:00Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 04 - Backpropagation - Theory With Example",
+                "description": "Learn all the basics you need to get started with this deep learning framework! In this part I will explain the famous backpropagation algorithm. I will explain all the necessary concepts and walk you through a concrete example. At the end we will see how easy it is to \nuse backpropagation in PyTorch.\n\n- Chain Rule\n- Computational Graph and local gradients\n- Forward and backward pass\n- Concrete example with numbers (Linear Regression)\n- How to use backpropagation in PyTorch\n\nPart 04: Backpropagation - Theory With Example\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01: \nhttps://youtu.be/EMXfZB8FVUA\n\nLinear Regression from scratch:\nhttps://youtu.be/4swNt7PiamQ\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3Kb0QS6z7WA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3Kb0QS6z7WA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3Kb0QS6z7WA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3Kb0QS6z7WA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3Kb0QS6z7WA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 04 - Backpropagation - Theory With Example",
+                    "description": "Learn all the basics you need to get started with this deep learning framework! In this part I will explain the famous backpropagation algorithm. I will explain all the necessary concepts and walk you through a concrete example. At the end we will see how easy it is to \nuse backpropagation in PyTorch.\n\n- Chain Rule\n- Computational Graph and local gradients\n- Forward and backward pass\n- Concrete example with numbers (Linear Regression)\n- How to use backpropagation in PyTorch\n\nPart 04: Backpropagation - Theory With Example\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01: \nhttps://youtu.be/EMXfZB8FVUA\n\nLinear Regression from scratch:\nhttps://youtu.be/4swNt7PiamQ\n\nCode for this tutorial series:\nhttps://github.com/python-engineer/pytorchTutorial\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "3461",
+                "likeCount": "87",
+                "dislikeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "4",
+                "duration": "PT13M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "DbeIqrwb_dE": {
+                "publishedAt": "2019-12-25T09:44:56Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 03 - Gradient Calculation With Autograd",
+                "description": "Learn all the basics you need to get started with this deep learning framework! In this part we learn how to calculate gradients using the autograd package in PyTorch.\nThis tutorial contains the following topics:\n\n- requires_grad attribute for Tensors\n- Computational graph\n- Backpropagation (brief explanation)\n- How to stop autograd from tracking history\n- How to zero (empty) gradients\n\nPart 03: Gradient Calculation With Autograd\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DbeIqrwb_dE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DbeIqrwb_dE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DbeIqrwb_dE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DbeIqrwb_dE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DbeIqrwb_dE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 03 - Gradient Calculation With Autograd",
+                    "description": "Learn all the basics you need to get started with this deep learning framework! In this part we learn how to calculate gradients using the autograd package in PyTorch.\nThis tutorial contains the following topics:\n\n- requires_grad attribute for Tensors\n- Computational graph\n- Backpropagation (brief explanation)\n- How to stop autograd from tracking history\n- How to zero (empty) gradients\n\nPart 03: Gradient Calculation With Autograd\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "5989",
+                "likeCount": "125",
+                "dislikeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "17",
+                "duration": "PT15M54S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "exaWOE8jvy8": {
+                "publishedAt": "2019-12-16T12:42:28Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 02 - Tensor Basics",
+                "description": "Learn all the basics you need to get started with this deep learning framework! This part covers the basics of Tensors and Tensor operations in PyTorch. Learn also how to convert from numpy data to PyTorch tensors and vice versa!\n\nPart 02: Tensor Basics\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/exaWOE8jvy8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/exaWOE8jvy8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/exaWOE8jvy8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/exaWOE8jvy8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/exaWOE8jvy8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 02 - Tensor Basics",
+                    "description": "Learn all the basics you need to get started with this deep learning framework! This part covers the basics of Tensors and Tensor operations in PyTorch. Learn also how to convert from numpy data to PyTorch tensors and vice versa!\n\nPart 02: Tensor Basics\n\nIf you enjoyed this video, please subscribe to the channel!\n\nOfficial website:\nhttps://pytorch.org/\n\nPart 01:\nhttps://youtu.be/EMXfZB8FVUA\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "6804",
+                "likeCount": "126",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "27",
+                "duration": "PT18M28S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "EMXfZB8FVUA": {
+                "publishedAt": "2019-12-13T22:33:16Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PyTorch Tutorial 01 - Installation",
+                "description": "New Tutorial series about PyTorch! Learn all the basics you need to get started with this deep learning framework!\n\nPart 01: Installation\n\nI show you how I install PyTorch on my Mac using Anaconda. Installation on Linux or Windows can be done almost the same way.\n\nhttps://pytorch.org/\nhttps://developer.nvidia.com/cuda-downloads\n\nAnaconda Tutorial:\nhttps://youtu.be/9nEh-OXVaNI\n\nIf you enjoyed this video, please subscribe to the channel!\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EMXfZB8FVUA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EMXfZB8FVUA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EMXfZB8FVUA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EMXfZB8FVUA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EMXfZB8FVUA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PyTorch Tutorial 01 - Installation",
+                    "description": "New Tutorial series about PyTorch! Learn all the basics you need to get started with this deep learning framework!\n\nPart 01: Installation\n\nI show you how I install PyTorch on my Mac using Anaconda. Installation on Linux or Windows can be done almost the same way.\n\nhttps://pytorch.org/\nhttps://developer.nvidia.com/cuda-downloads\n\nAnaconda Tutorial:\nhttps://youtu.be/9nEh-OXVaNI\n\nIf you enjoyed this video, please subscribe to the channel!\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #DeepLearning #Pytorch"
+                },
+                "viewCount": "9561",
+                "likeCount": "74",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "24",
+                "duration": "PT5M45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "9nEh-OXVaNI": {
+                "publishedAt": "2019-12-08T16:54:34Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "Anaconda Tutorial - Installation and Basic Commands",
+                "description": "In this Tutorial I show you how you can install and use Anaconda. Anaconda is a free Python distribution specifically designed for scientific computing. It\u2019 great for data science and machine learning tasks. In this video you can learn:\n\n- Installation\n- Manage multiple virtual Python environments\n- Package management, e.g. install numpy, scikit-learn, pandas etc. in your environments\n\nIf you enjoyed this video, please subscribe to the channel!\n\nAnaconda website:\nhttps://www.anaconda.com/distribution/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9nEh-OXVaNI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9nEh-OXVaNI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9nEh-OXVaNI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9nEh-OXVaNI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9nEh-OXVaNI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Anaconda Tutorial - Installation and Basic Commands",
+                    "description": "In this Tutorial I show you how you can install and use Anaconda. Anaconda is a free Python distribution specifically designed for scientific computing. It\u2019 great for data science and machine learning tasks. In this video you can learn:\n\n- Installation\n- Manage multiple virtual Python environments\n- Package management, e.g. install numpy, scikit-learn, pandas etc. in your environments\n\nIf you enjoyed this video, please subscribe to the channel!\n\nAnaconda website:\nhttps://www.anaconda.com/distribution/\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning"
+                },
+                "viewCount": "483",
+                "likeCount": "7",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "9",
+                "duration": "PT12M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "vtuH4VRq1AU": {
+                "publishedAt": "2019-12-04T16:30:02Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "K-Means Clustering in Python - Machine Learning From Scratch 12 - Python Tutorial",
+                "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a K-Means algorithm using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vtuH4VRq1AU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vtuH4VRq1AU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vtuH4VRq1AU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vtuH4VRq1AU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vtuH4VRq1AU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "K-Means Clustering in Python - Machine Learning From Scratch 12 - Python Tutorial",
+                    "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a K-Means algorithm using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning"
+                },
+                "viewCount": "2170",
+                "likeCount": "34",
+                "dislikeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "19",
+                "duration": "PT29M28S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "52d7ha-GdV8": {
+                "publishedAt": "2019-11-30T16:00:00Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "PCA (Principal Component Analysis) in Python - Machine Learning From Scratch 11 - Python Tutorial",
+                "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a PCA algorithm using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/52d7ha-GdV8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/52d7ha-GdV8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/52d7ha-GdV8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/52d7ha-GdV8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/52d7ha-GdV8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PCA (Principal Component Analysis) in Python - Machine Learning From Scratch 11 - Python Tutorial",
+                    "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a PCA algorithm using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning"
+                },
+                "viewCount": "1407",
+                "likeCount": "38",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "7",
+                "duration": "PT17M17S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "Oq1cKjR8hNo": {
+                "publishedAt": "2019-11-27T16:30:00Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "Random Forest in Python - Machine Learning From Scratch 10 - Python Tutorial",
+                "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a Random Forest algorithm using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Oq1cKjR8hNo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Oq1cKjR8hNo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Oq1cKjR8hNo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Oq1cKjR8hNo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Oq1cKjR8hNo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Random Forest in Python - Machine Learning From Scratch 10 - Python Tutorial",
+                    "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a Random Forest algorithm using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning"
+                },
+                "viewCount": "1272",
+                "likeCount": "24",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "7",
+                "duration": "PT13M19S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "Bqi7EFFvNOg": {
+                "publishedAt": "2019-11-22T10:30:00Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "Decision Tree in Python Part 2/2 - Machine Learning From Scratch 09 - Python Tutorial",
+                "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a Decision Tree algorithm using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nPart 1 will cover the theory, and Part 2 contains the implementation.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Bqi7EFFvNOg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Bqi7EFFvNOg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Bqi7EFFvNOg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Bqi7EFFvNOg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Bqi7EFFvNOg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Decision Tree in Python Part 2/2 - Machine Learning From Scratch 09 - Python Tutorial",
+                    "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a Decision Tree algorithm using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nPart 1 will cover the theory, and Part 2 contains the implementation.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning"
+                },
+                "viewCount": "1781",
+                "likeCount": "31",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "23",
+                "duration": "PT30M44S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "jVh5NA9ERDA": {
+                "publishedAt": "2019-11-21T21:56:50Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "Decision Tree in Python Part 1/2 - Machine Learning From Scratch 08 - Python Tutorial",
+                "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a Decision Tree algorithm using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nPart 1 will cover the theory, and Part 2 contains the implementation.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jVh5NA9ERDA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jVh5NA9ERDA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jVh5NA9ERDA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jVh5NA9ERDA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jVh5NA9ERDA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Decision Tree in Python Part 1/2 - Machine Learning From Scratch 08 - Python Tutorial",
+                    "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a Decision Tree algorithm using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nPart 1 will cover the theory, and Part 2 contains the implementation.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning"
+                },
+                "viewCount": "1710",
+                "likeCount": "28",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "4",
+                "duration": "PT10M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "UX0f9BNBcsY": {
+                "publishedAt": "2019-10-19T10:38:49Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "SVM (Support Vector Machine) in Python - Machine Learning From Scratch 07 - Python Tutorial",
+                "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a SVM (Support Vector Machine) algorithm using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nFurther readings:\nhttps://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UX0f9BNBcsY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UX0f9BNBcsY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UX0f9BNBcsY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UX0f9BNBcsY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UX0f9BNBcsY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "tags": [
+                    "Python",
+                    "ML",
+                    "Machine Learning",
+                    "SVM",
+                    "numpy",
+                    "Support Vector Machine"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "SVM (Support Vector Machine) in Python - Machine Learning From Scratch 07 - Python Tutorial",
+                    "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a SVM (Support Vector Machine) algorithm using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nFurther readings:\nhttps://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning"
+                },
+                "viewCount": "4818",
+                "likeCount": "69",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "45",
+                "duration": "PT19M28S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "t2ym2a3pb_Y": {
+                "publishedAt": "2019-10-11T15:22:09Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "Perceptron in Python - Machine Learning From Scratch 06 - Python Tutorial",
+                "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a single-layer Perceptron algorithm using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nFurther readings:\nhttps://sebastianraschka.com/Articles/2015_singlelayer_neurons.html\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t2ym2a3pb_Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t2ym2a3pb_Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t2ym2a3pb_Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/t2ym2a3pb_Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/t2ym2a3pb_Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "tags": [
+                    "Python",
+                    "Programming",
+                    "Machine Learning",
+                    "Tutorial",
+                    "Perceptron"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Perceptron in Python - Machine Learning From Scratch 06 - Python Tutorial",
+                    "description": "In this Machine Learning from Scratch Tutorial, we are going to implement a single-layer Perceptron algorithm using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nFurther readings:\nhttps://sebastianraschka.com/Articles/2015_singlelayer_neurons.html\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning"
+                },
+                "viewCount": "4472",
+                "likeCount": "68",
+                "dislikeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "8",
+                "duration": "PT17M45S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "BqUmKsfSWho": {
+                "publishedAt": "2019-09-29T16:00:04Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "Naive Bayes in Python - Machine Learning From Scratch 05 - Python Tutorial",
+                "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the Naive Bayes algorithm, using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nFurther readings:\nhttps://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BqUmKsfSWho/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BqUmKsfSWho/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BqUmKsfSWho/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BqUmKsfSWho/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BqUmKsfSWho/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "tags": [
+                    "Python",
+                    "Machine Learning",
+                    "Naive Bayes",
+                    "numpy",
+                    "Tutorial"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Naive Bayes in Python - Machine Learning From Scratch 05 - Python Tutorial",
+                    "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the Naive Bayes algorithm, using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nFurther readings:\nhttps://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning"
+                },
+                "viewCount": "7692",
+                "likeCount": "124",
+                "dislikeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "44",
+                "duration": "PT20M42S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "PC7cVBbU7UQ": {
+                "publishedAt": "2019-09-22T16:00:06Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "Linear and Logistic Regression in 60 lines of Python - Machine Learning From Scratch 04",
+                "description": "In this Machine Learning from Scratch Tutorial, we are going to refactor the code from the previous two videos. We will implement Linear and Logistic Regression in only 60 lines of Python, with the help of a Base Regression class.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PC7cVBbU7UQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PC7cVBbU7UQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PC7cVBbU7UQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PC7cVBbU7UQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PC7cVBbU7UQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "tags": [
+                    "Python",
+                    "Machine Learning",
+                    "numpy",
+                    "Linear Regression",
+                    "Logistic Regression",
+                    "Tutorial"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Linear and Logistic Regression in 60 lines of Python - Machine Learning From Scratch 04",
+                    "description": "In this Machine Learning from Scratch Tutorial, we are going to refactor the code from the previous two videos. We will implement Linear and Logistic Regression in only 60 lines of Python, with the help of a Base Regression class.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning"
+                },
+                "viewCount": "523",
+                "likeCount": "8",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT7M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "JDU3AzH3WKg": {
+                "publishedAt": "2019-09-15T16:00:02Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "Logistic Regression in Python - Machine Learning From Scratch 03 - Python Tutorial",
+                "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the Logistic Regression algorithm, using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nFurther readings:\nhttps://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html\nhttps://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc\n\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JDU3AzH3WKg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JDU3AzH3WKg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JDU3AzH3WKg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JDU3AzH3WKg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JDU3AzH3WKg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "tags": [
+                    "Python",
+                    "Machine Learning",
+                    "numpy",
+                    "Tutorial",
+                    "Logistic Regression"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Logistic Regression in Python - Machine Learning From Scratch 03 - Python Tutorial",
+                    "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the Logistic Regression algorithm, using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nFurther readings:\nhttps://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html\nhttps://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc\n\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning"
+                },
+                "viewCount": "5840",
+                "likeCount": "109",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "40",
+                "duration": "PT17M9S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "4swNt7PiamQ": {
+                "publishedAt": "2019-09-11T13:25:56Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "Linear Regression in Python - Machine Learning From Scratch 02 - Python Tutorial",
+                "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the Linear Regression algorithm, using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nFurther readings:\nhttps://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html\nhttps://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html\n\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4swNt7PiamQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4swNt7PiamQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4swNt7PiamQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4swNt7PiamQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4swNt7PiamQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "tags": [
+                    "Python",
+                    "Machine Learning",
+                    "Regression",
+                    "numpy",
+                    "Tutorial",
+                    "Gradient descent"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Linear Regression in Python - Machine Learning From Scratch 02 - Python Tutorial",
+                    "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the Linear Regression algorithm, using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nFurther readings:\nhttps://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html\nhttps://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html\n\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning"
+                },
+                "viewCount": "3902",
+                "likeCount": "94",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "42",
+                "duration": "PT20M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "ngLyX54e1LU": {
+                "publishedAt": "2019-09-03T15:00:07Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "KNN (K Nearest Neighbors) in Python - Machine Learning From Scratch 01 - Python Tutorial",
+                "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the K Nearest Neighbors (KNN) algorithm, using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ngLyX54e1LU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ngLyX54e1LU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ngLyX54e1LU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ngLyX54e1LU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ngLyX54e1LU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "tags": [
+                    "Python",
+                    "Machine Learning",
+                    "ML",
+                    "numpy",
+                    "KNN",
+                    "Tutorial"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "KNN (K Nearest Neighbors) in Python - Machine Learning From Scratch 01 - Python Tutorial",
+                    "description": "In this Machine Learning from Scratch Tutorial, we are going to implement the K Nearest Neighbors (KNN) algorithm, using only built-in Python modules and numpy. We will also learn about the concept and the math behind this popular ML algorithm.\n\nIf you enjoyed this video, please subscribe to the channel!\n\nThe code can be found here:\nhttps://github.com/python-engineer/MLfromscratch\n\nYou can find me here:\nWebsite: https://www.python-engineer.com\nTwitter: https://twitter.com/python_engineer\nGitHub: https://github.com/python-engineer\n\n#Python #MachineLearning"
+                },
+                "viewCount": "12352",
+                "likeCount": "192",
+                "dislikeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "41",
+                "duration": "PT21M58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            }
+        }
+    }
+}
