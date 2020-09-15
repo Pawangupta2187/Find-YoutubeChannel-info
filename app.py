@@ -9,7 +9,7 @@ import math
 from youtube_stats import YTstats
 import numpy as np
 
-API_KEY="AIzaSyCwQ3WJ4ieNE3M_YXi3N0ShL59oyN0i0xo"
+API_KEY=""
 
 
 
