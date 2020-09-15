@@ -1,10 +1,10 @@
 import json
 import pandas as pd
 
-file = "carryminati.json"
-data =None
-with open(file,'r') as f:
-    data=json.load(f)
+# file = "carryminati.json"
+# data =None
+# with open(file,'r') as f:
+#     data=json.load(f)
 
 channel_id,stats=data.popitem()
 channel_stats=stats['channel_statistics']
